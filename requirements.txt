@@ -1,0 +1,4 @@
+moviepy==1.0.3
+numpy==2.0.0
+torch==2.3.0+cu118
+tqdm==4.66.4
